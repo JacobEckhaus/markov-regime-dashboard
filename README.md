@@ -18,6 +18,14 @@ The application receives streaming equity market data through the Interactive Br
 
 A multithreaded desktop dashboard visualizes candlestick data and highlights the detected volatility regime as market conditions change.
 
+## Dashboard Preview
+
+### High Regime
+![Dashboard showing the HIGH regime](dashboard-high.png)
+
+### Low Regime
+![Dashboard showing the LOW regime](dashboard-low.png)
+
 
 ## Features
 
