@@ -2,9 +2,7 @@
 
 A live market regime detection and visualization system built in Python using Interactive Brokers market data and a 3-state Markov model.
 
-## Dashboard Preview
 
-> Screenshot coming soon
 
 ## Overview
 
@@ -21,10 +19,10 @@ A multithreaded desktop dashboard visualizes candlestick data and highlights the
 ## Dashboard Preview
 
 ### High Regime
-![Dashboard showing the HIGH regime](dashboard-high.png)
+![Dashboard showing the HIGH regime](dashboard-high.png.png)
 
 ### Low Regime
-![Dashboard showing the LOW regime](dashboard-low.png)
+![Dashboard showing the LOW regime](dashboard-low.png..png)
 
 
 ## Features
